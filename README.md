@@ -23,7 +23,7 @@ I use the following two workflows to organize my conference travel:
 
 I use the following two workflows to organize my teaching: 
 
-- **create course folder structure** will prompt you for the name of a course and a semester and then create a `COURSE NAME` directory within a `SEMESTER` directory within whatever directory you keep course materials in. This organization allows you to keep all courses taught within a particular semester within a single master directory for that semester (though it could be rearranged so that `COURSE NAME — SEMESTER` directories are contained within a `COURSE NAME` master directory, which I keep thinking of changing to. The `COURSE NAME` directory will contain subdirectories that I have found helpful. 
+- **create course folder structure** will prompt you for the name of a course and a semester and then create a `COURSE NAME` directory within a `SEMESTER` directory within whatever directory you keep course materials in. This organization allows you to keep all courses taught within a particular semester within a single master directory for that semester (though it could be rearranged so that `COURSE NAME — SEMESTER` directories are contained within a `COURSE NAME` master directory, which I keep thinking of changing to). The `COURSE NAME` directory will contain subdirectories that I have found helpful. 
   
 - **create Things project for teaching a course** will create a Things 3 project with all of the steps that I have found useful for planning and teaching a course. After prompting you for a course name and a semester, it will create a project called "teach `COURSE NAME for SEMESTER`" with headings, tasks, and subtasks that I have found helpful. 
 
