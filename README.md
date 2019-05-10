@@ -31,5 +31,5 @@ I use the following two workflows to organize my teaching:
 
 I use the following workflow to organize my reviewing efforts: 
 
-- **create Things task for a manuscript review** will prompt you for a manuscript name, an outlet, and a due date and create a Things task called "`review MANUSCRIPT NAME for OUTLET`" that is due on the specified date. The steps and notes in this task are based off of [Snyder](https://twitter.com/DressageProf) (2018)'s [**How to become a more effective reviewer**](https://dx.doi.org/10.1177/0016986218754495). 
+- **create Things task for a manuscript review** will prompt you for a manuscript name, an outlet, and a due date and create a Things task called "`review MANUSCRIPT NAME for OUTLET`" that is due on the specified date. The steps and notes in this task are based off of [Snyder's](https://twitter.com/DressageProf) (2018) [**How to become a more effective reviewer**](https://dx.doi.org/10.1177/0016986218754495). 
   
